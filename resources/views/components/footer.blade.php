@@ -20,9 +20,7 @@
                 </h3>
 
                 <p class="text-sm leading-relaxed text-blue-800/80">
-                    Jl. S. Parman Kompleks RS Islam, Ps. Lama,
-                    Kec. Banjarmasin Tengah, Kota Banjarmasin,
-                    Kalimantan Selatan 70114
+                    Jl. Medika Raya No. 17, Central District, Pleevance City, North Blue Province 70124
                 </p>
             </div>
 
@@ -37,12 +35,12 @@
 
                     <div class="flex items-center gap-2 bg-blue-100 border border-blue-200 rounded-xl px-4 py-2 text-sm shadow-sm w-40">
                         <i class="ri-phone-fill text-blue-700"></i>
-                        <span>(555) 802-1234</span>
+                        <span>(+62) 511 742 2098</span>
                     </div>
 
                     <div class="flex items-center gap-2 bg-blue-100 border border-blue-200 rounded-xl px-4 py-2 text-sm shadow-sm w-40">
                         <i class="ri-mail-fill text-blue-700"></i>
-                        <span>fkik@umbjm.ac.id</span>
+                        <span>faculty@corazon.ac.id</span>
                     </div>
 
                 </div>
@@ -56,7 +54,7 @@
 
             <!-- COPYRIGHT -->
             <div class="text-sm text-blue-900 font-medium text-center md:text-left">
-                © {{ date('Y') }} UM Banjarmasin — Fakultas Keperawatan dan Ilmu Kesehatan
+                © {{ date('Y') }} Universitas Corazon — Fakultas Keperawatan dan Kedokteran
             </div>
 
             <!-- SOCIAL -->

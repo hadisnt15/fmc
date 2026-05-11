@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title', 'Fakultas Keperawatan dan Ilmu Kesehatan | UM Banjarmasin')</title>
+    <title>@yield('title', 'Fakultas Keperawatan dan Kedokteran | Universitas Corazon')</title>
 
     @vite('resources/css/app.css')
     <link href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" rel="stylesheet">

@@ -6,7 +6,7 @@
         <!-- DESKTOP BG -->
         <div class="absolute inset-0 -z-20 opacity-30 hidden md:block">
             <img 
-                src="{{ asset('img/bg-beranda3.jpg') }}" 
+                src="{{ asset('img/bg-beranda4.jpg') }}" 
                 class="w-full h-full object-cover object-[center_40%]"
             >
         </div>
@@ -14,7 +14,7 @@
         <!-- MOBILE BG -->
         <div class="absolute inset-0 -z-20 md:hidden">
             <img 
-                src="{{ asset('img/bg-beranda3.jpg') }}" 
+                src="{{ asset('img/bg-beranda4.jpg') }}" 
                 class="w-full h-full object-cover object-[center_0%]"
             >
         </div>

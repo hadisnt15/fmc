@@ -32,8 +32,8 @@
                 </div>
 
                 <div class="flex gap-6">
-                    <a><i class="ri-phone-fill"></i> (0511) 3363002</a>
-                    <a><i class="ri-mail-fill"></i> Email Kami</a>
+                    <a><i class="ri-phone-fill"></i> (+62) 511 742 2098</a>
+                    <a><i class="ri-mail-fill"></i> faculty@corazon.ac.id</a>
                 </div>
 
                 <div class="flex gap-3 text-lg">
@@ -56,7 +56,7 @@
 
             <!-- LOGO -->
             <div>
-                <img src="{{ asset('img/Logo-Retina-FKIK-default-200x43.png') }}" 
+                <img src="{{ asset('img/corazon-2.png') }}" 
                      class="w-36 md:w-40">
             </div>
 
